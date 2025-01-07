@@ -11,7 +11,6 @@ namespace ConsoleApp3.Tests
         public void CanAddAndRetrieveUser()
         {
             // Arrange
-            //
             var user = new Users { Name = "Iaiaia" };
             using (var context = new AppDbContext())
             {

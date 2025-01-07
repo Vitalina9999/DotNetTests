@@ -20,6 +20,7 @@
     </ItemGroup>
 
     <ItemGroup>
+      <ProjectReference Include="..\ConsoleApp3.CQRS\ConsoleApp3.CQRS.csproj" />
       <ProjectReference Include="..\ConsoleApp3.DAL\ConsoleApp3.DAL.csproj" />
     </ItemGroup>
 

@@ -309,3 +309,5 @@ C:\Users\viboiko\RiderProjects\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\ConsoleA
 C:\Users\viboiko\RiderProjects\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.genruntimeconfig.cache
 C:\Users\viboiko\RiderProjects\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\ref\ConsoleApp3.dll
 C:\Users\viboiko\RiderProjects\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.sourcelink.json
+C:\Users\viboiko\RiderProjects\ConsoleApp3\ConsoleApp3\bin\Debug\net8.0\ConsoleApp3.CQRS.dll
+C:\Users\viboiko\RiderProjects\ConsoleApp3\ConsoleApp3\bin\Debug\net8.0\ConsoleApp3.CQRS.pdb

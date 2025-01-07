@@ -18,3 +18,4 @@ C:\Users\viboiko\RiderProjects\ConsoleApp3\ConsoleApp3.DAL\obj\Debug\net8.0\refi
 C:\Users\viboiko\RiderProjects\ConsoleApp3\ConsoleApp3.DAL\obj\Debug\net8.0\ConsoleApp3.DAL.pdb
 C:\Users\viboiko\RiderProjects\ConsoleApp3\ConsoleApp3.DAL\obj\Debug\net8.0\ConsoleApp3.DAL.genruntimeconfig.cache
 C:\Users\viboiko\RiderProjects\ConsoleApp3\ConsoleApp3.DAL\obj\Debug\net8.0\ref\ConsoleApp3.DAL.dll
+C:\Users\viboiko\RiderProjects\ConsoleApp3\ConsoleApp3.DAL\obj\Debug\net8.0\ConsoleApp3.DAL.sourcelink.json

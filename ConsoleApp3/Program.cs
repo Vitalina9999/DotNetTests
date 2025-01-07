@@ -1,5 +1,6 @@
-﻿// Пример с Autofac
-
+﻿using ConsoleApp3.CQRS.Commands;
+using ConsoleApp3.CQRS.Queries;
+using ConsoleApp3.CQRS.Handlers;
 using ConsoleApp3.DAL;
 
 namespace ConsoleApp3
@@ -42,8 +43,18 @@ namespace ConsoleApp3
     class Program
     {
         static void Main(string[] args)
-        {
-            using var context = new AppDbContext();
+        {           
+
+            using (var context = new AppDbContext())
+            {
+                var createUserHandler = new CreateUserCommandHandler(context);
+                createUserHandler.Handle(new CreateUserCommand { Name = "John Doe" });
+
+                var getUserHandler = new GetUserQueryHandler(context);
+                var user = getUserHandler.Handle(new GetUserQuery { UserId = 1 });
+
+                Console.WriteLine($"Retrieved User: {user.Name}");
+            }
             
             //var items = context.Users.ToList();
             
