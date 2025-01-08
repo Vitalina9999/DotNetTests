@@ -8,6 +8,12 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Include="..\ConsoleApp3\appsettings.json" Link="appsettings.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.12.0" />
     <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.21.0" />
     <PackageReference Include="NUnit" Version="4.3.2" />
@@ -15,11 +21,5 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ConsoleApp3.DAL\ConsoleApp3.DAL.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <None Include="..\ConsoleApp3\appsettings.json">    
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
   </ItemGroup>
 </Project>

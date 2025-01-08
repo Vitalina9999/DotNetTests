@@ -17,13 +17,13 @@
     &lt;TestId&gt;NUnit3x::DD2372D1-1B1C-495B-B102-63025D55D8F4::net8.0::ConsoleApp3.Tests.AppDbContextTests.CanAddAndRetrieveUser&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=963945e0_002D08eb_002D4cea_002D8560_002D361bcb6eaa0d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CanAddAndRetrieveUser #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=963945e0_002D08eb_002D4cea_002D8560_002D361bcb6eaa0d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CanAddAndRetrieveUser #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;NUnit3x::DD2372D1-1B1C-495B-B102-63025D55D8F4::net8.0::ConsoleApp3.Tests.AppDbContextTests.CanAddAndRetrieveUser&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::7C2AA2C7-09E2-451F-B5C4-F3DB0BB14D3F::net8.0::ConsoleApp3.NotificationManagerTests.Notify_CallsSendMessage_OnMessageService&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b26bd595_002Dd5ea_002D446b_002Dbe7d_002D24a419b639a1/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Notify_CallsSendMessage_OnMessageService" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b26bd595_002Dd5ea_002D446b_002Dbe7d_002D24a419b639a1/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Notify_CallsSendMessage_OnMessageService" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;NUnit3x::7C2AA2C7-09E2-451F-B5C4-F3DB0BB14D3F::net8.0::ConsoleApp3.NotificationManagerTests.Notify_CallsSendMessage_OnMessageService&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
