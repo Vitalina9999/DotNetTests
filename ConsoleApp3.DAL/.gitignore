@@ -1,0 +1,33 @@
+# Ignore build directories
+bin/
+obj/
+
+# Ignore user-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+*.cache
+*.db
+*.db-shm
+*.db-wal
+
+# Ignore Rider project files
+.idea/
+*.sln.iml
+
+# Ignore node modules and other dependencies
+node_modules/
+bower_components/
+jspm_packages/
+
+# Ignore platform-specific files
+.DS_Store
+Thumbs.db
+
+# GitHub Copilot files
+.copilot/
+.copilot-cache/
+.copilot-annotations.json
+.copilot-chat/

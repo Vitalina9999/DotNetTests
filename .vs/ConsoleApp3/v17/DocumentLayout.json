@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\viboiko\\RiderProjects\\ConsoleApp33\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DD2372D1-1B1C-495B-B102-63025D55D8F4}|ConsoleApp3.Tests\\ConsoleApp3.Tests.csproj|c:\\users\\viboiko\\riderprojects\\consoleapp33\\consoleapp3.tests\\appdbcontexttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2372D1-1B1C-495B-B102-63025D55D8F4}|ConsoleApp3.Tests\\ConsoleApp3.Tests.csproj|solutionrelative:consoleapp3.tests\\appdbcontexttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{354D3B71-C11A-42DF-ACE2-EE93DE2A712C}|ConsoleApp3\\ConsoleApp3.csproj|c:\\users\\viboiko\\riderprojects\\consoleapp33\\consoleapp3\\abstractclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{354D3B71-C11A-42DF-ACE2-EE93DE2A712C}|ConsoleApp3\\ConsoleApp3.csproj|solutionrelative:consoleapp3\\abstractclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{354D3B71-C11A-42DF-ACE2-EE93DE2A712C}|ConsoleApp3\\ConsoleApp3.csproj|c:\\users\\viboiko\\riderprojects\\consoleapp33\\consoleapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{354D3B71-C11A-42DF-ACE2-EE93DE2A712C}|ConsoleApp3\\ConsoleApp3.csproj|solutionrelative:consoleapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +27,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AppDbContextTests.cs",
+              "DocumentMoniker": "C:\\Users\\viboiko\\RiderProjects\\ConsoleApp33\\ConsoleApp3.Tests\\AppDbContextTests.cs",
+              "RelativeDocumentMoniker": "ConsoleApp3.Tests\\AppDbContextTests.cs",
+              "ToolTip": "C:\\Users\\viboiko\\RiderProjects\\ConsoleApp33\\ConsoleApp3.Tests\\AppDbContextTests.cs",
+              "RelativeToolTip": "ConsoleApp3.Tests\\AppDbContextTests.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAArwAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T17:20:28.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AbstractClass.cs",
+              "DocumentMoniker": "C:\\Users\\viboiko\\RiderProjects\\ConsoleApp33\\ConsoleApp3\\AbstractClass.cs",
+              "RelativeDocumentMoniker": "ConsoleApp3\\AbstractClass.cs",
+              "ToolTip": "C:\\Users\\viboiko\\RiderProjects\\ConsoleApp33\\ConsoleApp3\\AbstractClass.cs",
+              "RelativeToolTip": "ConsoleApp3\\AbstractClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T16:32:19.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\viboiko\\RiderProjects\\ConsoleApp33\\ConsoleApp3\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp3\\Program.cs",
               "ToolTip": "C:\\Users\\viboiko\\RiderProjects\\ConsoleApp33\\ConsoleApp3\\Program.cs",
               "RelativeToolTip": "ConsoleApp3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-08T13:24:11.677Z",
               "EditorCaption": ""

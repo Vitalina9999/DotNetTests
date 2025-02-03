@@ -1,7 +1,14 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AAsyncToSyncAdapter_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003FAppData_003FRoaming_003FJetBrains_003FRider2024_002E2_003Fresharper_002Dhost_003FSourcesCache_003Fa4fe58ebeb8a1660294cf7ecda6faf894105f33152029b687f66293f43d287b_003FAsyncToSyncAdapter_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
 	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003ADbContext_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003FAppData_003FRoaming_003FJetBrains_003FRider2024_002E2_003Fresharper_002Dhost_003FSourcesCache_003Fa0b45f29f34f594814a7b1fbc25fe5ef3c18257956ed4f4fbfa68717db58_003FDbContext_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003ADirectory_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003FAppData_003FRoaming_003FJetBrains_003FRider2024_002E2_003Fresharper_002Dhost_003FSourcesCache_003Fce7854bb4da5f3387d19aeb7a46d9b3e214173bc14d69641477687ea285423b_003FDirectory_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
 	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AExceptionDispatchInfo_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003FAppData_003FRoaming_003FJetBrains_003FRider2024_002E2_003Fresharper_002Dhost_003FSourcesCache_003Fbd1d5c50194fea68ff3559c160230b0ab50f5acf4ce3061bffd6d62958e2182_003FExceptionDispatchInfo_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AMessagePumpStrategy_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003FAppData_003FRoaming_003FJetBrains_003FRider2024_002E2_003Fresharper_002Dhost_003FSourcesCache_003Fab57c814891cde2bfa1859b0329ead8e8ac2a1539d51912027f4c522307edb89_003FMessagePumpStrategy_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
 	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AModelValidator_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003FAppData_003FRoaming_003FJetBrains_003FRider2024_002E2_003Fresharper_002Dhost_003FSourcesCache_003F32af53f9addbd8407e5f571f6439ce341f8ba46c7f085f2d1c1aa4c2bd1d35_003FModelValidator_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003ATaskAwaitAdapter_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003FAppData_003FRoaming_003FJetBrains_003FRider2024_002E2_003Fresharper_002Dhost_003FSourcesCache_003Fd3c187e0b88b1a56f2518fb9f4b5ee5ed6e9116d93a507969a932c16801033_003FTaskAwaitAdapter_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;&#xD;
+  &lt;Assembly Path="C:\Users\viboiko\.nuget\packages\autofac\8.2.0\lib\net8.0\Autofac.dll" /&gt;&#xD;
+&lt;/AssemblyExplorer&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=144dc7b1_002D7217_002D4601_002D88d6_002D8eafedb8f81b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CanAddAndRetrieveUser #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;NUnit3x::DD2372D1-1B1C-495B-B102-63025D55D8F4::net8.0::ConsoleApp3.Tests.AppDbContextTests.CanAddAndRetrieveUser&lt;/TestId&gt;&#xD;
@@ -17,14 +24,16 @@
     &lt;TestId&gt;NUnit3x::DD2372D1-1B1C-495B-B102-63025D55D8F4::net8.0::ConsoleApp3.Tests.AppDbContextTests.CanAddAndRetrieveUser&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=963945e0_002D08eb_002D4cea_002D8560_002D361bcb6eaa0d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CanAddAndRetrieveUser #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=963945e0_002D08eb_002D4cea_002D8560_002D361bcb6eaa0d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CanAddAndRetrieveUser #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;NUnit3x::DD2372D1-1B1C-495B-B102-63025D55D8F4::net8.0::ConsoleApp3.Tests.AppDbContextTests.CanAddAndRetrieveUser&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::7C2AA2C7-09E2-451F-B5C4-F3DB0BB14D3F::net8.0::ConsoleApp3.NotificationManagerTests.Notify_CallsSendMessage_OnMessageService&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::DD2372D1-1B1C-495B-B102-63025D55D8F4::net8.0::ConsoleApp3.Tests.AppDbContextTests.GetDataAsync&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::DD2372D1-1B1C-495B-B102-63025D55D8F4::net8.0::ConsoleApp3.Tests.AppDbContextTests.RunWhenAnyTask&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b26bd595_002Dd5ea_002D446b_002Dbe7d_002D24a419b639a1/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Notify_CallsSendMessage_OnMessageService" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b26bd595_002Dd5ea_002D446b_002Dbe7d_002D24a419b639a1/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Notify_CallsSendMessage_OnMessageService" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::7C2AA2C7-09E2-451F-B5C4-F3DB0BB14D3F::net8.0::ConsoleApp3.NotificationManagerTests.Notify_CallsSendMessage_OnMessageService&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::DD2372D1-1B1C-495B-B102-63025D55D8F4::net8.0::ConsoleApp3.Tests.AppDbContextTests.CanAddAndRetrieveUser&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
